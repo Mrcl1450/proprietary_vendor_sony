@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/sony/huashan/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/sony/huashan/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+	vendor/sony/huashan/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
     vendor/sony/huashan/proprietary/etc/firmware/cyttsp4_fw.bin:system/etc/firmware/cyttsp4_fw.bin \
     vendor/sony/huashan/proprietary/etc/firmware/cyttsp_8064_mtp.hex:system/etc/firmware/cyttsp_8064_mtp.hex \
     vendor/sony/huashan/proprietary/etc/firmware/cyttsp_8960_cdp.hex:system/etc/firmware/cyttsp_8960_cdp.hex \

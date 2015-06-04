@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/sony/huashan/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/sony/huashan/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/sony/huashan/proprietary/bin/illumination_service:system/bin/illumination_service \
     vendor/sony/huashan/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/sony/huashan/proprietary/bin/ks:system/bin/ks \
     vendor/sony/huashan/proprietary/bin/location-mq:system/bin/location-mq \
@@ -136,7 +135,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/sony/huashan/proprietary/lib/hw/camera.vendor.qcom.so:system/lib/hw/camera.vendor.qcom.so \
     vendor/sony/huashan/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/sony/huashan/proprietary/lib/hw/lights.vendor.default.so:system/lib/hw/lights.vendor.default.so \
     vendor/sony/huashan/proprietary/lib/hw/nfc.msm8960.so:system/lib/hw/nfc.msm8960.so \
     vendor/sony/huashan/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/sony/huashan/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
@@ -145,7 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/lib_get_secure_mode.so:system/lib/lib_get_secure_mode.so \
     vendor/sony/huashan/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/huashan/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
-    vendor/sony/huashan/proprietary/lib/libals.so:system/lib/libals.so \
     vendor/sony/huashan/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/huashan/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/huashan/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
@@ -173,7 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/sony/huashan/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/sony/huashan/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
-    vendor/sony/huashan/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
     vendor/sony/huashan/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/huashan/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/sony/huashan/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \

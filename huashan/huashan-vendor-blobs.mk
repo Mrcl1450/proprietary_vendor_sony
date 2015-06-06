@@ -236,7 +236,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/sony/huashan/proprietary/vendor/lib/libxt_native.so:system/vendor/lib/libxt_native.so \
     vendor/sony/huashan/proprietary/vendor/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
-    vendor/sony/huashan/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so
+    vendor/sony/huashan/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so
 
 PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \

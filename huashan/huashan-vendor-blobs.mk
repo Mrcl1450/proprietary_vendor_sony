@@ -204,6 +204,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/sony/huashan/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/sony/huashan/proprietary/lib/libs1sl.so:system/lib/libs1sl.so \
+    vendor/sony/huashan/proprietary/lib/libsensors_akm8963.so:system/lib/libsensors_akm8963.so \
     vendor/sony/huashan/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
     vendor/sony/huashan/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/huashan/proprietary/vendor/camera/APT00YP1.dat:system/vendor/camera/APT00YP1.dat \

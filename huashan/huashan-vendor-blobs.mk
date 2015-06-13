@@ -142,6 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/lib_get_secure_mode.so:system/lib/lib_get_secure_mode.so \
     vendor/sony/huashan/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/huashan/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
+    vendor/sony/huashan/proprietary/lib/libals.so:system/lib/libals.so \
     vendor/sony/huashan/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/huashan/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/huashan/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \

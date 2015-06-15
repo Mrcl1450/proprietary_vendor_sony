@@ -154,6 +154,14 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/huashan/proprietary/lib/libcredential-manager-service.so:system/lib/libcredential-manager-service.so \
     vendor/sony/huashan/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
+	vendor/sony/huashan/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
+	vendor/sony/huashan/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+	vendor/sony/huashan/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+	vendor/sony/huashan/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+    vendor/sony/huashan/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/sony/huashan/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/sony/huashan/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
+    vendor/sony/huashan/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/sony/huashan/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
     vendor/sony/huashan/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/sony/huashan/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
